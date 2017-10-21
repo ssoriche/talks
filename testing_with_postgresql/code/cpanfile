@@ -1,0 +1,8 @@
+requires 'App::Sqitch';
+requires 'DBD::Pg';
+requires 'Test::PostgreSQL';
+requires 'Test::Most';
+requires 'Data::Printer';
+requires 'Crypt::Bcrypt::Easy';
+requires 'DBIx::Class::EasyFixture';
+requires 'DBIx::Class::Schema::Loader';
